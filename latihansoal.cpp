@@ -38,7 +38,7 @@ int main() {
     
     barang1.tampilkanInfo();
 
-   
+    return 0;
 }
 
 
