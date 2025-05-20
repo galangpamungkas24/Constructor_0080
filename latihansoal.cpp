@@ -18,6 +18,12 @@ class Barang {
     Barang(string nama, string kode) {
         namaBarang = nama;
         kodeBarang = kode;
+
+        void tampilkanInfo() {
+            cout << "Nama Barang : " << namaBarang << endl;
+            cout << "Kode Barang : " << kodeBarang << endl;
+        }
+    
     }
 
     
