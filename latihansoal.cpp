@@ -36,7 +36,7 @@ int main() {
     Barang barang1("Hp kang dedi", "Barakmiliter01");
 
     
-  
+    barang1.tampilkanInfo();
 
    
 }
