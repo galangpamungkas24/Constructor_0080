@@ -12,12 +12,14 @@ class Barang {
     private:
         string namaBarang;
         string kodeBarang;
-        public:
+
+     public:
     
     Barang(string nama, string kode) {
         namaBarang = nama;
         kodeBarang = kode;
     }
+
     
 }; 
 
