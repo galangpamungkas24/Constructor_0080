@@ -7,3 +7,10 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
+class Barang {
+    private:
+        string namaBarang;
+        string kodeBarang;
+    
+}; 
